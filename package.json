@@ -9,7 +9,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/acid-syntax",
+  "repository": "https://github.com/bjarneo/acid-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
